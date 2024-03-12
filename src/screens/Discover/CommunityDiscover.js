@@ -87,10 +87,8 @@ const styles = StyleSheet.create({
   },
   describeCommunityDiscover:{
     flexDirection:'row',
-  
     justifyContent:'space-between',
     paddingRight:10
-  
   },
   title_CommunityDiscover:{
     fontSize:18,
@@ -103,7 +101,6 @@ const styles = StyleSheet.create({
   },
   Join_gigi:{
     fontSize:20,
- 
     paddingLeft:10,
     color:'#ff0077',
     fontWeight:'500'

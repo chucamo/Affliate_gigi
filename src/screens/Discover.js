@@ -1,4 +1,4 @@
-import { SafeAreaView, StyleSheet, View, useWindowDimensions } from 'react-native'
+import { SafeAreaView, View, useWindowDimensions } from 'react-native'
 import React ,{useState}from 'react'
 import LeaderDiscover from './Discover/LeaderDiscover';
 import CommunityDiscover from './Discover/CommunityDiscover';
@@ -49,4 +49,3 @@ export default function Discover() {
   );
 }
 
-const styles = StyleSheet.create({})
